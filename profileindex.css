@@ -66,7 +66,7 @@ h2 {
 
 .parent {
   display: grid;
-  grid-template-rows: 1r 1fr;
+  grid-template-rows: 1fr 1fr;
   grid-template-columns: 0.5fr 1fr;
 
   width: 50%;
@@ -107,3 +107,4 @@ p {
 
 @media (max-width: 680px) {
 }
+
